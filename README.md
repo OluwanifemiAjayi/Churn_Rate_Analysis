@@ -52,6 +52,11 @@ I defined a function to determine customer status based on transaction type and 
 
 I converted the churn column to numeric type, I got the unique count of customers which is the total customers count and I also calculated the total number of unique churned customers. Then I used the total customers count and total churned customers to derive the overall churn rate and analyzed the churn rate by various demographics and time periods, visualizing the results for better understanding.
 
+### Churn Distribution
+I plotted the overall distribution of the churn rate among active customers
+
+![Churn Distribution]()
+
 ### Churn Rate by Country
 I calculated the churn rate for each country and plotted the distribution
 
