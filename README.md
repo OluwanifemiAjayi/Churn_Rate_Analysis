@@ -15,7 +15,7 @@
 7. Conclusion
 
 ## 1. Introduction
-This project aims to analyze customer subscription and transaction data, exploring and identify trends in this dataset, so as to understand subscription preferences across all demographics and various other metrics related to customer behavior, and also analyze the churn rate and how it changes due to different factors. The dataset includes various columns such as customer_ID, transaction_type, transaction_date, subscription_type, subscription_price, customer_gender, age_group, customer_country, and referral_type. I was able to conduct this analysis with the aid of multiple python libraries like Pandas to manipulate data, NumPy to perform numerical operations, MatPlotlib to plot data, Seaborn to plot advanced charts. The whole analysis process can be observed in full details in this [Jupyter Notebook](http://localhost:8888/notebooks/Eda%20and%20Churn%20project.ipynb).
+This project aims to analyze customer subscription and transaction data, exploring and identify trends in this dataset, so as to understand subscription preferences across all demographics and various other metrics related to customer behavior, and also analyze the churn rate and how it changes due to different factors. The dataset includes various columns such as customer_ID, transaction_type, transaction_date, subscription_type, subscription_price, customer_gender, age_group, customer_country, and referral_type. I was able to conduct this analysis with the aid of multiple python libraries like Pandas to manipulate data, NumPy to perform numerical operations, MatPlotlib to plot data, Seaborn to plot advanced charts. The whole analysis process can be observed in full details in this [Jupyter Notebook](https://github.com/OluwanifemiAjayi/Churn_Rate_Analysis/blob/main/Eda%20and%20Churn%20project.ipynb)
 
 ## 2. Data and Libraries Importing
 I began this project by importing the necessary libraries for data manipulation, numerical operations, data visualization and advanced date functions. The libraries used include pandas, numpy, matplotlib, and seaborn. Additionally, I suppressed warnings for a cleaner output.
@@ -117,6 +117,6 @@ In this project, I assessed and cleaned the data, explored subscription preferen
 - Sweden should be targeted more during ads campaigns as it is the country with the highest customer count.
 
 ## Relevant Links
-- [Jupyter Notebook](http://localhost:8888/notebooks/Eda%20and%20Churn%20project.ipynb).
+- [Jupyter Notebook](https://github.com/OluwanifemiAjayi/Churn_Rate_Analysis/blob/main/Eda%20and%20Churn%20project.ipynb)
 - [Customer Subscription and Transaction Dataset](https://github.com/OluwanifemiAjayi/Churn_Rate_Analysis/blob/main/Customer_Subscription_And_Transaction_Details.csv)
 - [LinkedIn](https://www.linkedin.com/in/oluwanifemiii)
